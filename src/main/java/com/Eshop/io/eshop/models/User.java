@@ -26,4 +26,11 @@ public class User {
 
     private String password;
 
+   public void setDetails(){
+       Item item=new Item();
+       Cart cart=new Cart();
+       item.setName(cart.getName());
+   }
+
+
 }
