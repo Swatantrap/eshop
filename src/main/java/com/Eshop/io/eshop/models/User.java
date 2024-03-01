@@ -9,6 +9,7 @@ public class User {
     private String user_name;
     private String password;
 
+
 //   public void setDetails(){
 //       Item item=new Item();
 //       Cart cart=new Cart();
